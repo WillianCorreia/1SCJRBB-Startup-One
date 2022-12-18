@@ -1,37 +1,53 @@
-O que e ?
-O ERP funciona como um software de gestão para unificar informações e facilitar o fluxo de trabalho entre as áreas. Levando em consideração que cada departamento necessita de uma ferramenta própria para poder gerar seus relatórios e executar tarefas rotineiras, o ERP passa a ter um papel fundamental, funcionando como um centralizador do fluxo de trabalho, alinhando a comunicação de todas as áreas e facilitando a tomada de decisão. 
-Desta forma, ao invés de cada área possuir um software isolado, o ERP concentra todas as informações de forma integrada e inteligente, dando à empresa autonomia na execução de tarefas rotineiras e tornando a comunicação interligada. Imagine que, por exemplo, o departamento de finanças possa saber em tempo real o status de seus ganhos e destinar o dinheiro de maneira assertiva, tendo controle total do fluxo de caixa. 
-Ao contratar um ERP, você não recebe um software ‘genérico’ e precisa adaptá-lo às necessidades do seu negócio – o sistema integrado de gestão é moldado para sua empresa, garantindo tudo o que você precisa. Inclusive, o controle de filiais e outras empresas pode ser feito nesse programa único, tornando toda a comunicação muito mais rápida e efetiva. 
-
-
->>>>>>>>>>>>> SETOR PUBLICO <<<<<<<<<<<<<
+Problemas ?
 
 
 
 ---------------------------------
-Como Funciona ?
+Soluções ?
+- Automatizar processos manuais
+- Unificar visualização de resultados
 
+
+---------------------------------
+Diferenciais ?
+- Oferecer serviços e produtos financeiros integrados.
+- Resolver em um unico ambiente, todas as dores que tem o dia a dia de gerenciamento financeiro dos seus negocios (ambiente unificado)
+- Aumento do LTV (Lifetime Value) pois o cliente passará mais tempo na solução
+- Fortalecer a marca no mercado, destacando das empresas que ainda não oferecem esses serviços 
+- Open Banking para consulta em outras instituições financeiras
+- Importação de Extratos via API e Open Banking
+
+
+---------------------------------
+Tecnologias ?
+
+
+---------------------------------
+Palavras Chaves ?
+
+
+---------------------------------
+MPE
+- As Micro e Pequenas Empresas são responsáveis por 54% dos empregos no Brasil e fundamentais para a geração de emprego e renda. 
+- Elas representam 99% do total de empresas privadas e respondem por 27% do Produto Interno Bruto brasileiro.
 
 
 
 
 
 ---------------------------------
-Quais suas funcoes ?
+Textos de Site
+> https://exame.com/pme/pesquisa-mostra-o-abismo-entre-bancos-e-fintechs-e-seus-clientes/
+	- Por exemplo, de acordo com um levantamento apresentado no site Exame, apenas 4 entre 10 clientes desse modelo bancário estão satisfeitos com as soluções que recebem. Já entre os usuários de fintechs, esse número sobe para 7 a cada 10 usuários.
+	- Entre os motivos que justificam essa diferença é que os bancos digitais entregam serviços menos burocráticos e mais adequados às necessidades do público.
+> https://www.omie.com.br/funcionalidades/
+	- Funcionalidades do ERP
+
+"Feito para Voce" para "Feito com voce"
 
 
 
-
-
-
-
-------------------------------
-Concorrente ?
-
-
-
-
---------------------------------
+---------------------------------
 Links
 https://zoop.com.br/blog/banking/erp-banking/
 https://zoop.com.br/banking/
@@ -49,47 +65,24 @@ https://neilpatel.com/br/blog/melhor-erp/
 https://www.bling.com.br/funcionalidades
 https://blog.conexaonfe.com.br/erp-gratuito/
 
---------------------------------
-Palavras Chave
-- ERP Banking
-- Sistema de Gestao Financeira
-- Atender publico especifico - Ifood via API para gestao financeira
 
 
+https://blog.simplesagenda.com.br/83/melhor-erp
+https://blog.ploomes.com/melhores-erps-do-mercado/
+https://nfe.io/blog/gestao-empresarial/melhores-sistemas-erps-mercado/
+https://tangerino.com.br/blog/erp-para-pequenas-empresas/
 
-Qual é o problema/pra quem?
-> Um sistema de gestão apresenta diversas ferramentas que contribuem diretamente para a melhoria dos serviços e aumenta a eficiência do trabalho. 
+Paceria Itau e Omie
+https://www.baguete.com.br/noticias/14/06/2021/itau-fecha-acordo-com-omie
+https://www.moneytimes.com.br/itau-e-omie-lancam-plataforma-para-apoiar-pequenos-e-medios-negocios/
+https://neofeed.com.br/blog/home/itau-unibanco-prepara-sua-artilharia-para-cercar-as-pmes/
 
-	Atualmente os usuarios PJ precisam realizar a contratacao de um sistema ERP para fazer a gestao financeira da sua empresa.
-	Mas no mercado nao temos disponivel um sistema de ERP voltado para o cliente Setor Publico 
+Ser uma ferramente feita para voce 
 
-Qual é a solução?
-	Sistema de Gestão Integrado voltada para o Setor Publico 
-		- Pagamento
-		- Transferencia 
-		- PIX
-		- Cobranca
-		- Folha de Pagamento
-		- Tramissao de Arquivos CNAB
+Atuar como um facilitador das atividades realizadas no dia a dias das empresas
 
 
-
-Qual é o tamanho/impacto desse problema?
-	Grande Impacto, devido os clientes GOV nao possuirem sistemas integrados com o banco para gestao financeira
-
-	
-Quais são os diferenciais do projetos idealizado?
-	Entregar um sistema ERP personalizado para as necessidades de cliente governo
-		- otimizar processo
-		- automatizar tarefas
-		- tudo em uma unica plataforma
-	Sistema precario dos orgao publicos para fazer a gestao financeira
-	Exemplo Exercito - bloqueio de pagamento
-	
-O que vcs precisam para colocarem em prática o projeto?
-	Gestor da area de negocio setor publico
-	Desenvolvedor front / back / ux
-	Scrum Master
-
-
-- BB ERP GOV
+Willian Prestes Correia Cellos - RM344812
+Daniel de Oliveira Carvalho - RM344795
+Carlos Mateus Borges Júnior - RM344974
+Pedro Sant Anna Lima Oliveira - RM344804
